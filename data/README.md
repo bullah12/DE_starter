@@ -296,7 +296,7 @@ The complete list. Everything here was injected on purpose.
 | 12 | `suppliers` | `country` NULL | 3 rows |
 | 13 | `employees` | `cost_centre_code` NULL | 4 rows |
 | 14 | `general_ledger` | `cost_centre_code` NULL | 231 rows |
-| 15 | `journal_entries` | `approved_by` NULL on some journals | a handful |
+| 15 | `journal_entries` | `approved_by` NULL — posted without approval | 19 rows |
 | 16 | `general_ledger` | **Six journals do not balance** — debits ≠ credits, header still says `POSTED` | 6 journals |
 | 17 | `journal_entries` | Eight journals are `DRAFT` but have live GL lines | 8 journals |
 | 18 | `invoices` | `status` casing inconsistent, and unreliable as a settlement flag | all rows |

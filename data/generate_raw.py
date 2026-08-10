@@ -877,6 +877,12 @@ def main() -> None:
     for row in rng.sample(led.journals, 8):
         row[10] = "DRAFT"
 
+    # every so often a journal was posted without being approved. Done by a
+    # fixed stride rather than at random so it does not disturb the sequence
+    # of random numbers used above.
+    for row in led.journals[::350]:
+        row[9] = ""
+
     # missing cost centre on some GL lines
     for i, line in enumerate(led.lines):
         if i % 137 == 41:
