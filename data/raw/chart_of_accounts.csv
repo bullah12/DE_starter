@@ -1,0 +1,57 @@
+account_code,account_name,account_type,report_section,normal_balance,is_active
+1010,Freehold Property,ASSET,Fixed Assets,DEBIT,Y
+1020,Plant and Machinery,ASSET,Fixed Assets,DEBIT,Y
+1030,Motor Vehicles,ASSET,Fixed Assets,DEBIT,Y
+1040,  Office Equipment,ASSET,Fixed Assets,DEBIT,Y
+1090,Accumulated Depreciation,ASSET,Fixed Assets,CREDIT,Y
+1200,TRADE DEBTORS,ASSET,Current Assets,DEBIT,Y
+1210,Other Debtors,ASSET,Current Assets,DEBIT,Y
+1220,Prepayments,ASSET,Current Assets,DEBIT,Y
+1300,Stock - Raw Materials,ASSET,Current Assets,DEBIT,Y
+1310,Stock - Finished Goods,ASSET,Current Assets,DEBIT,Y
+1400,  Bank Current Account,ASSET,Current Assets,DEBIT,Y
+1410,Bank Deposit Account,ASSET,Current Assets,DEBIT,N
+1420,Petty Cash,ASSET,Current Assets,DEBIT,Y
+2000,Trade Creditors,LIABILITY,Current Liabilities,CREDIT,Y
+2010,Accruals,LIABILITY,Current Liabilities,CREDIT,Y
+2100,VAT Control,LIABILITY,Current Liabilities,CREDIT,Y
+2110,PAYE AND NI CONTROL,LIABILITY,Current Liabilities,CREDIT,Y
+2120,  Pension Control,LIABILITY,Current Liabilities,CREDIT,Y
+2200,Bank Loan,LIABILITY,Long Term Liabilities,CREDIT,Y
+2300,Deferred Income,LIABILITY,Current Liabilities,CREDIT,Y
+3000,Ordinary Share Capital,EQUITY,Equity,CREDIT,Y
+3100,Retained Earnings,EQUITY,Equity,CREDIT,Y
+4000,Sales - Components UK,INCOME,Revenue,CREDIT,Y
+4010,Sales - Components Export,INCOME,Revenue,CREDIT,Y
+4020,  Sales - Services,INCOME,Revenue,CREDIT,Y
+4030,Sales - Spare Parts,INCOME,Revenue,CREDIT,Y
+4900,Other Income,INCOME,Revenue,CREDIT,N
+5000,MATERIALS PURCHASES,EXPENSE,Cost of Sales,DEBIT,Y
+5010,Carriage Inwards,EXPENSE,Cost of Sales,DEBIT,Y
+5020,Subcontractor Costs,EXPENSE,Cost of Sales,DEBIT,Y
+5030,Stock Movement,EXPENSE,Cost of Sales,DEBIT,Y
+6000,  Salaries and Wages,EXPENSE,Operating Expenses,DEBIT,Y
+6010,Employer National Insurance,EXPENSE,Operating Expenses,DEBIT,Y
+6020,Pension Contributions,EXPENSE,Operating Expenses,DEBIT,Y
+6030,Recruitment,EXPENSE,Operating Expenses,DEBIT,N
+6040,Training,EXPENSE,Operating Expenses,DEBIT,Y
+6100,Rent,EXPENSE,Operating Expenses,DEBIT,Y
+6110,Business Rates,EXPENSE,Operating Expenses,DEBIT,Y
+6120,  LIGHT AND HEAT,EXPENSE,Operating Expenses,DEBIT,Y
+6130,Insurance,EXPENSE,Operating Expenses,DEBIT,Y
+6140,Repairs and Maintenance,EXPENSE,Operating Expenses,DEBIT,Y
+6200,Motor Expenses,EXPENSE,Operating Expenses,DEBIT,Y
+6210,Travel and Subsistence,EXPENSE,Operating Expenses,DEBIT,Y
+6220,Entertaining,EXPENSE,Operating Expenses,DEBIT,Y
+6300,Telephone and Internet,EXPENSE,Operating Expenses,DEBIT,Y
+6310,  IT Software and Licences,EXPENSE,Operating Expenses,DEBIT,Y
+6320,Postage and Stationery,EXPENSE,Operating Expenses,DEBIT,Y
+6400,Advertising and Marketing,EXPENSE,Operating Expenses,DEBIT,Y
+6500,Audit and Accountancy,EXPENSE,Operating Expenses,DEBIT,Y
+6510,LEGAL AND PROFESSIONAL,EXPENSE,Operating Expenses,DEBIT,Y
+6520,Bank Charges,EXPENSE,Operating Expenses,DEBIT,Y
+6600,Depreciation,EXPENSE,Operating Expenses,DEBIT,Y
+6700,  Bad Debt Expense,EXPENSE,Operating Expenses,DEBIT,Y
+6900,Foreign Exchange Gain or Loss,EXPENSE,Operating Expenses,DEBIT,Y
+7000,Interest Payable,EXPENSE,Finance Costs,DEBIT,Y
+8000,Corporation Tax,EXPENSE,Tax,DEBIT,Y

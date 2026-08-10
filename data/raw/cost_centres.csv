@@ -1,0 +1,9 @@
+cost_centre_code,cost_centre_name,region,cost_centre_type
+CC100,Head Office,South East,SUPPORT
+CC200,Sales - North,North West,REVENUE
+CC210,Sales - South,South East,REVENUE
+CC220,Sales - Export,South East,REVENUE
+CC300,Warehouse and Logistics,Midlands,OPERATIONS
+CC400,Manufacturing,Midlands,OPERATIONS
+CC500,Finance,South East,SUPPORT
+CC600,IT,South East,SUPPORT

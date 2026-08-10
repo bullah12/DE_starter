@@ -1,0 +1,65 @@
+customer_id,customer_name,country,currency,payment_terms_days,credit_limit_gbp,created_date,cost_centre_code,is_active
+C2000,Oakfield Systems Ltd,United Kingdom,GBP,45,250000,2018-09-11,CC200,Y
+C2001,  BRIGHTSIDE INDUSTRIAL BV,United States,USD,30,150000,2020-11-20,CC220,Y
+C2002,halcyon contracts ltd  ,Netherlands,EUR,60,150000,2021-02-23,CC220,Y
+C2003,Pinewood Fabrication Inc,Netherlands,EUR,45,50000,2020-09-05,CC220,Y
+C2004,Pinewood Motors SARL,,GBP,45,500000,2016-03-22,CC210,Y
+C2005,  VULCAN INDUSTRIAL GMBH,France,EUR,30,25000,2017-06-05,CC220,Y
+C2006,kestrel utilities ltd  ,United Kingdom,GBP,30,100000,2019-11-02,CC200,Y
+C2007,Falkirk Motors BV,United Kingdom,GBP,30,50000,2020-03-17,CC200,Y
+C2008,Brightside Industrial Inc,Germany,EUR,60,500000,2021-08-26,CC220,Y
+C2009,  KESTREL MOTORS LTD,United Kingdom,GBP,,250000,2015-05-02,CC200,Y
+C2010,kestrel fabrication inc  ,United Kingdom,GBP,30,50000,2016-03-26,CC200,Y
+C2011,Dunbarton Holdings SARL,United Kingdom,GBP,14,50000,2019-07-30,CC200,Y
+C2012,Oakfield Engineering Ltd,Ireland,EUR,60,100000,2016-08-01,CC220,Y
+C2013,  NORTHGATE ENGINEERING LTD,United Kingdom,GBP,45,250000,2018-07-29,CC200,Y
+C2014,halcyon machinery ltd  ,Germany,EUR,60,150000,2020-04-29,CC220,Y
+C2015,Halcyon Engineering Ltd,United Kingdom,GBP,60,150000,2015-01-16,CC210,Y
+C2016,Trentham Fabrication SARL,United Kingdom,GBP,30,100000,2019-04-30,CC200,Y
+C2017,  IRONBRIDGE MACHINERY LTD,,EUR,45,50000,2021-05-16,CC220,Y
+C2018,redland systems ltd  ,Germany,EUR,45,500000,2021-02-16,CC220,Y
+C2019,Brightside Utilities Inc,Netherlands,EUR,90,50000,2021-09-16,CC220,Y
+C2020,Meridian Machinery Inc,United Kingdom,GBP,45,250000,2015-12-07,CC210,Y
+C2021,  HALCYON UTILITIES LTD,United Kingdom,GBP,90,150000,2020-07-09,CC210,Y
+C2022,ironbridge fabrication inc  ,United Kingdom,GBP,30,25000,2020-06-11,CC210,Y
+C2023,Whitmore Systems Ltd,United Kingdom,GBP,30,100000,2021-06-15,CC200,Y
+C2024,Kestrel Fabrication Ltd,United Kingdom,GBP,30,100000,2018-05-17,CC210,Y
+C2025,  SANDERLING SYSTEMS LTD,United States,USD,90,150000,2018-10-17,CC220,Y
+C2026,northgate machinery ltd  ,United Kingdom,GBP,,250000,2018-11-02,CC210,Y
+C2027,Vulcan Engineering GmbH,Germany,EUR,14,50000,2018-12-16,CC220,Y
+C2028,Halcyon Engineering BV,United Kingdom,GBP,14,150000,2016-12-11,CC200,Y
+C2029,  HALCYON HOLDINGS BV,Ireland,EUR,90,50000,2016-05-26,CC220,Y
+C2030,sanderling systems bv  ,,GBP,30,50000,2017-02-10,CC200,Y
+C2031,Thorncliff Engineering Inc,United Kingdom,GBP,60,50000,2018-05-09,CC210,Y
+C2032,Sanderling Contracts GmbH,United Kingdom,GBP,30,50000,2021-01-17,CC200,Y
+C2033,  THORNCLIFF MOTORS LTD,United Kingdom,GBP,14,250000,2015-08-20,CC200,N
+C2034,cranmere motors ltd  ,Ireland,EUR,14,50000,2015-01-23,CC220,Y
+C2035,Redland Contracts SARL,United Kingdom,GBP,30,25000,2021-09-14,CC200,Y
+C2036,Whitmore Contracts SARL,United Kingdom,GBP,30,250000,2019-07-03,CC200,Y
+C2037,  IRONBRIDGE FABRICATION LTD,United States,USD,30,150000,2021-10-31,CC220,Y
+C2038,falkirk plant hire inc  ,United Kingdom,GBP,30,50000,2016-06-09,CC200,Y
+C2039,Vulcan Engineering SARL,Ireland,EUR,14,500000,2015-12-24,CC220,Y
+C2040,Meridian Holdings BV,United Kingdom,GBP,30,500000,2019-01-02,CC200,Y
+C2041,  FALKIRK FABRICATION LTD,United Kingdom,GBP,30,100000,2021-01-04,CC210,Y
+C2042,ardennes fabrication ltd  ,United Kingdom,GBP,60,50000,2021-03-22,CC210,Y
+C2043,Whitmore Utilities SARL,,EUR,,250000,2017-02-26,CC220,Y
+C2044,Redland Engineering Inc,United Kingdom,GBP,60,100000,2021-07-30,CC200,Y
+C2045,  BRIGHTSIDE SYSTEMS PLC,United Kingdom,GBP,45,250000,2015-01-22,CC200,Y
+C2046,northgate plant hire gmbh  ,United Kingdom,GBP,60,25000,2018-05-20,CC200,Y
+C2047,Cavendish Fabrication BV,United Kingdom,GBP,14,150000,2016-11-18,CC200,Y
+C2048,Dunbarton Fabrication SARL,United Kingdom,GBP,14,500000,2017-10-03,CC200,Y
+C2049,  SANDERLING CONTRACTS INC,United Kingdom,GBP,14,50000,2019-09-09,CC200,Y
+C2050,redland motors plc  ,United States,USD,30,50000,2018-11-14,CC220,Y
+C2051,Pinewood Motors Inc,United States,USD,45,150000,2017-08-22,CC220,Y
+C2052,Cavendish Utilities Ltd,Spain,EUR,30,25000,2018-05-03,CC220,Y
+C2053,  TRENTHAM MOTORS LTD,United Kingdom,GBP,30,50000,2021-10-02,CC200,Y
+C2054,whitmore systems sarl  ,United Kingdom,GBP,30,50000,2017-11-12,CC210,Y
+C2055,Vulcan Machinery BV,United Kingdom,GBP,90,250000,2015-10-12,CC200,Y
+C2056,Beaufort Fabrication Ltd,,GBP,90,150000,2015-09-14,CC210,Y
+C2057,  VULCAN PLANT HIRE PLC,United States,USD,90,100000,2016-05-24,CC220,Y
+C2058,dunbarton holdings plc  ,Netherlands,EUR,90,500000,2015-01-25,CC220,Y
+C2059,Trentham Contracts SARL,Germany,EUR,30,25000,2020-12-05,CC220,Y
+C2060,Vulcan Motors Ltd,Germany,EUR,,25000,2016-02-21,CC220,Y
+C2061,  BEAUFORT CONTRACTS BV,United Kingdom,GBP,30,250000,2021-10-27,CC210,Y
+C2900,FALKIRK MOTORS BV,United Kingdom,GBP,30,50000,2020-03-17,CC200,Y
+C2901,Halcyon Utilities Ltd ,United Kingdom,GBP,90,150000,2020-07-09,CC210,Y

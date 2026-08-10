@@ -1,0 +1,48 @@
+supplier_id,supplier_name,country,currency,payment_terms_days,created_date,is_active
+S3000,  jedburgh services ltd,United Kingdom,GBP,30,2018-09-07,Y
+S3001,Selkirk Consulting Ltd  ,United Kingdom,GBP,30,2017-12-12,Y
+S3002,Kirkwall Metals Ltd,Germany,EUR,60,2014-12-19,Y
+S3003,ELLESMERE CONSULTING SARL,Ireland,EUR,30,2015-04-07,Y
+S3004,  marchmont services inc,United Kingdom,GBP,30,2020-06-26,Y
+S3005,Selkirk Supplies PLC  ,United Kingdom,GBP,45,2015-10-06,Y
+S3006,Marchmont Logistics Ltd,,EUR,30,2018-07-25,Y
+S3007,INVERCLYDE CHEMICALS SARL,Germany,EUR,30,2016-01-04,Y
+S3008,  coleridge components bv,United Kingdom,GBP,60,2017-01-01,Y
+S3009,Coleridge Chemicals Ltd  ,United Kingdom,GBP,30,2016-12-28,Y
+S3010,Ravensworth Packaging Ltd,United Kingdom,GBP,30,2016-05-27,Y
+S3011,ORMSKIRK METALS INC,Germany,EUR,60,2014-07-23,Y
+S3012,  ormskirk components ltd,United Kingdom,GBP,30,2016-04-01,Y
+S3013,Selkirk Supplies GmbH  ,United Kingdom,GBP,14,2021-02-07,Y
+S3014,Tavistock Energy GmbH,United Kingdom,GBP,14,2014-11-17,Y
+S3015,COLERIDGE CONSULTING GMBH,Germany,EUR,30,2020-06-29,Y
+S3016,  coleridge services plc,Spain,EUR,14,2014-05-01,Y
+S3017,Netherby Energy Ltd  ,United Kingdom,GBP,45,2016-01-21,Y
+S3018,Drakemoor Supplies Inc,United States,USD,30,2019-02-04,Y
+S3019,ORMSKIRK CONSULTING PLC,Germany,EUR,30,2016-01-28,Y
+S3020,  ellesmere tooling plc,United States,USD,30,2018-05-15,Y
+S3021,Ardsley Packaging GmbH  ,,GBP,45,2020-11-03,Y
+S3022,Penhale Energy BV,France,EUR,60,2021-08-30,Y
+S3023,PENHALE LOGISTICS LTD,United States,USD,30,2014-07-27,Y
+S3024,  inverclyde services gmbh,Spain,EUR,45,2017-05-05,Y
+S3025,Netherby Consulting Ltd  ,Ireland,EUR,30,2014-11-08,Y
+S3026,Grantham Supplies Ltd,United Kingdom,GBP,30,2014-10-31,Y
+S3027,ARDSLEY CONSULTING BV,Netherlands,EUR,14,2019-10-16,Y
+S3028,  drakemoor metals bv,United Kingdom,GBP,30,2015-02-02,Y
+S3029,Ellesmere Chemicals SARL  ,Ireland,EUR,30,2017-07-25,Y
+S3030,Tavistock Energy PLC,United Kingdom,GBP,30,2018-01-28,Y
+S3031,COLERIDGE SERVICES LTD,United Kingdom,GBP,60,2017-08-24,Y
+S3032,  marchmont chemicals plc,Ireland,EUR,14,2017-11-21,Y
+S3033,Jedburgh Energy SARL  ,United Kingdom,GBP,60,2021-01-26,Y
+S3034,Jedburgh Chemicals Ltd,United Kingdom,GBP,30,2016-01-14,Y
+S3035,ORMSKIRK SUPPLIES PLC,France,EUR,14,2016-09-06,Y
+S3036,  tavistock metals gmbh,,GBP,60,2021-05-15,Y
+S3037,Coleridge Supplies Ltd  ,United States,USD,30,2018-03-13,Y
+S3038,Tavistock Components PLC,United Kingdom,GBP,30,2014-01-14,Y
+S3039,LOMOND METALS LTD,United Kingdom,GBP,30,2014-12-09,Y
+S3040,  ardsley packaging inc,Spain,EUR,14,2015-01-27,Y
+S3041,Ellesmere Packaging GmbH  ,United Kingdom,GBP,30,2019-04-08,Y
+S3042,Coleridge Supplies SARL,United Kingdom,GBP,30,2019-08-16,Y
+S3043,INVERCLYDE COMPONENTS SARL,Germany,EUR,14,2015-08-02,Y
+S3044,  jedburgh services sarl,Ireland,EUR,60,2015-03-11,Y
+S3045,Inverclyde Tooling Ltd  ,United Kingdom,GBP,45,2021-01-14,Y
+S3003,ELLESMERE CONSULTING SARL,Ireland,EUR,30,2015-04-07,Y
