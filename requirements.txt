@@ -1,0 +1,10 @@
+# Everything this course needs. Install with:
+#   pip install -r requirements.txt
+#
+# Four packages, on purpose. A long dependency list is a great way to spend
+# week 1 debugging installs instead of learning.
+
+duckdb>=1.0.0      # the database engine: SQL against a single local file
+pandas>=2.0.0      # tabular data in Python; introduced at python/11
+pytest>=8.0.0      # runs the automated checks on your exercises
+ipykernel>=6.29.0  # lets VS Code run Jupyter notebooks

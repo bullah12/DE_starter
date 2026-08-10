@@ -1,0 +1,25 @@
+# The database is a build artefact — rebuild it with `python data/build_db.py`
+data/finance.duckdb
+data/finance.duckdb.wal
+*.duckdb
+*.duckdb.wal
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Scratch space — put your own experiments here and they stay out of git
+scratch/
